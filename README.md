@@ -20,14 +20,10 @@ The Personal Budget Tracker is a Python application that helps users manage thei
 1. Clone the repository:
    ```
    https://github.com/vadipudi1/Personal-Budget-Tracker.git
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    ```
    cd personal-budget-tracker
    
-4. Install the required packages:
-  ```
-   pip install -r requirements.txt
-```
 ## Usage
 1. Run the application:
    ```
